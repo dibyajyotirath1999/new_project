@@ -22,7 +22,6 @@ class son(man,employee):
         self.cast=cast
         self.fname=fname
     def sonbio(self):
-        .nature()
         employee.work()
         print("cast is :",self.cast)
         print("father's name:",self.fname)
@@ -30,6 +29,8 @@ class son(man,employee):
 
 s=son("dibya",22,"general","manamohan rath","anima rath")
 s.sonbio()
+print("my name is dibyajyoti rath")
+print("i am a softwere aspirant")
 
 
 

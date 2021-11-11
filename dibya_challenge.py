@@ -16,4 +16,6 @@ while True:
 
         if len(a[0:])<4:
             print("sorry it has less then 4 letters\nplz think a big number")
+            print("my name is dibya jyoti rath")
+            print(" i am a software aspirant")
 
